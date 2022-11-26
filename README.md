@@ -1,33 +1,23 @@
 # Retail_Customer_Segmentation
 
+## 1. Objectives
+
+* Customer Segmentation
+
+* Forecast sales of a brand (probability 0f purchase * probability of choosing a brand * quantity * price) in a retail store.
 
 
-## 1. Overview
+## 2. Data 
 
-* Segment
-
-* Forecast 
+The customer profile is comprised of 2000 customers with 7 features. The features include age, gender, marital status, education, income, occupation, settlement type.
 
 
-## 2. Code and Packages
 
-* Python Version: 3.9
+## 3. Methodology
 
-* Packages: pandas, numpy, sklearn, matplotlib, seaborn, pickle
-
-
-## 3. Objectives
-
-* Segmentation
-
-* Forecast
-
-## 4. Data Sources
-
-The samples
-
-
-## 5. Methodology
+* EDA
+* Clustering
+* Modeling
 
 ## 6. Data Cleaning
 
