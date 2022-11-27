@@ -57,16 +57,26 @@ Reference: https://365datascience.com/courses/customer-analytics-in-python/
 <img src=https://user-images.githubusercontent.com/64850893/204145780-322c980b-c5e5-433b-a3ba-fb389e8326c5.png width="600" height="400">
 
 
-## 6. Data Cleaning
+## 6. Purchase Data Analytics
 
-### 6.1 Raw Data:
+* 6.1 Segment Proportion:
+
+<img src=https://user-images.githubusercontent.com/64850893/204149152-9ce089b6-b63b-4725-a5f9-a0260b465bd3.png width="500" height="400">
 
 
-### 6.2 Variables intepretation:
-* 
+* 6.2 Number of Purchases by Segment:
 
-### 6.3 Cleansing procedures
+<img src=https://user-images.githubusercontent.com/64850893/204149392-b59755b3-bb74-4729-8353-dfdf90865f1e.png width="600" height="400">
 
-* 
 
-## 7. EDA (Exploratory Data Analysis)
+* 6.3 Brand Choice by Segment
+
+<img src=https://user-images.githubusercontent.com/64850893/204149427-8e633251-8887-4671-9606-2e0e71d4d8d3.png width="600" height="400">
+
+
+* 6.4 Revenue by Segment
+
+<img src=https://user-images.githubusercontent.com/64850893/204149477-dc490236-22a7-4ca2-8c80-2f6b7b796167.png width="1000" height="300">
+
+
+## 7. Modeling
