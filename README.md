@@ -121,8 +121,8 @@ Reference: https://365datascience.com/courses/customer-analytics-in-python/
 
 ## 10. Price Elasticity of Purchase Quantity with and without Promotion
 
-<img src=https://https://user-images.githubusercontent.com/64850893/204656387-3ceb326f-ca54-4a94-a9ab-1601e41d2f2a.png width="700" height="500">
+<img src=https://user-images.githubusercontent.com/64850893/204656387-3ceb326f-ca54-4a94-a9ab-1601e41d2f2a.png width="700" height="500">
 
 * The 2 elasticities are very close together for almost the entire price range.
 
-# It appears that promotion does not seem to be a significant factor in the customers' decision on what quantity of chocolate candy bars to purchase.
+* It appears that promotion does not seem to be a significant factor in the customers' decision on what quantity of chocolate candy bars to purchase.
