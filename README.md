@@ -4,7 +4,7 @@
 
 * Customer Segmentation
 
-* Forecast sales of a brand (probability 0f purchase * probability of choosing a brand * quantity * price) in a retail store.
+* Forecast sales of a brand (probability of purchase * probability of choosing a brand * quantity * price) in a retail store.
 
 
 ## 2. Data 
