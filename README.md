@@ -1,4 +1,4 @@
-# Retail_Customer_Segmentation-Sales_Prediction
+# Retail_Customer_Segmentation_Sales_Prediction
 
 ## 1. Objectives
 
@@ -79,4 +79,16 @@ Reference: https://365datascience.com/courses/customer-analytics-in-python/
 <img src=https://user-images.githubusercontent.com/64850893/204149477-dc490236-22a7-4ca2-8c80-2f6b7b796167.png width="1000" height="300">
 
 
-## 7. Modeling
+## 7. Price Elasticity of Purchase Probability
+
+* Ultilize linear regression to predict the purchase probability
+
+* Compute the probability by 4 segments and plot:
+
+<img src=https://user-images.githubusercontent.com/64850893/204606176-3c7ce5f4-3009-44ed-b461-e8cbd293690a.png width="600" height="500">
+
+### Note: grey (overall), blue (segment 0 - Standard), green (segment 1 - Career-Focused), red (segment 2 - Fewer-Opportunities), orangle (segment 3 - Well-Off).
+
+* We observe that the Well-off (orange) segment are the least elastic when compared to the rest. So, their purchase probability elasticity is not as affected by price.
+
+* The price elasticities for the Standard (blue) segment seem to differ across price range. This may be due to the fact that the standard segment is least homogenous, which we discovered during our descriptive analysis. It may be that the customers in this segment have different shopping habbits, which is why their customers start with being more elastic than average but then shift to being more inelastic than the average customer.
