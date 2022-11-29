@@ -89,7 +89,7 @@ Reference: https://365datascience.com/courses/customer-analytics-in-python/
 
 <img src=https://user-images.githubusercontent.com/64850893/204606176-3c7ce5f4-3009-44ed-b461-e8cbd293690a.png width="600" height="500">
 
-### Note: grey (overall), blue (segment 0 - Standard), green (segment 1 - Career-Focused), red (segment 2 - Fewer-Opportunities), orangle (segment 3 - Well-Off).
+** Note: grey (overall), blue (segment 0 - Standard), green (segment 1 - Career-Focused), red (segment 2 - Fewer-Opportunities), orangle (segment 3 - Well-Off).
 
 * We observe that the Well-off (orange) segment are the least elastic when compared to the rest. So, their purchase probability elasticity is not as affected by price.
 
@@ -103,7 +103,7 @@ Reference: https://365datascience.com/courses/customer-analytics-in-python/
 
 <img src=https://user-images.githubusercontent.com/64850893/204611399-4e744aef-f1bf-454e-a270-4b5e091dbf2e.png width="600" height="500">
 
-### Note: blue (without promotion), red (with promotion).
+** Note: blue (without promotion), red (with promotion).
 
 * Here we observe that the purchase probability elasticity of the customer is less elastic when there is a promotion.
 
