@@ -27,7 +27,7 @@ Reference: https://365datascience.com/courses/customer-analytics-in-python/
 
 * 4.1 Summary
 
-<img src=https://user-images.githubusercontent.com/64850893/204099649-036f6ca3-edad-473a-85da-fdbf8ea3aab1.png width="600" height="300">
+<img src=https://user-images.githubusercontent.com/64850893/204099649-036f6ca3-edad-473a-85da-fdbf8ea3aab1.png width="700" height="300">
 
 
 * 4.2 Correlation
@@ -92,3 +92,22 @@ Reference: https://365datascience.com/courses/customer-analytics-in-python/
 * We observe that the Well-off (orange) segment are the least elastic when compared to the rest. So, their purchase probability elasticity is not as affected by price.
 
 * The price elasticities for the Standard (blue) segment seem to differ across price range. This may be due to the fact that the standard segment is least homogenous, which we discovered during our descriptive analysis. It may be that the customers in this segment have different shopping habbits, which is why their customers start with being more elastic than average but then shift to being more inelastic than the average customer.
+
+
+
+## 8. Price Elasticity of Purchase Probability with and without Promotion
+
+* Compute the price elasticity of purchase probability with and without promotion, then plot:
+
+<img src=https://user-images.githubusercontent.com/64850893/204611399-4e744aef-f1bf-454e-a270-4b5e091dbf2e.png width="600" height="500">
+
+### Note: blue (without promotion), red (with promotion).
+
+* Here we observe that the purchase probability elasticity of the customer is less elastic when there is a promotion.
+* 
+* This is an important insight for marketers, as according to our model, people are more likely to buy a product if there is some promotional activity rather than purchase a product with the same price, when it isn't on promotion. 
+
+## 9. Brand Choice
+
+<img src=https://user-images.githubusercontent.com/64850893/204612941-89eb8024-fdd2-41ed-aab9-96abd7ceed51.png width="700" height="500">
+
