@@ -2,9 +2,11 @@
 
 ## 1. Objectives
 
-* Customer Segmentation
+* Segment customers from a retail store based on their purchase behaviors on chocolate bars to help stakeholders conduct target marketing.
 
-* Forecast sales of a brand (probability of purchase * probability of choosing a brand * quantity * price) in a retail store.
+* Predict the price elasticity of purchase probability and quantity on various brands using linear regression, in order to assist marketers to make informed decisions.
+
+* Formula: probability of purchase * probability of choosing a brand * quantity * price.
 
 
 ## 2. Data 
