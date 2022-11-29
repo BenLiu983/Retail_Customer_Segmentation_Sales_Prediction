@@ -104,10 +104,25 @@ Reference: https://365datascience.com/courses/customer-analytics-in-python/
 ### Note: blue (without promotion), red (with promotion).
 
 * Here we observe that the purchase probability elasticity of the customer is less elastic when there is a promotion.
-* 
+
 * This is an important insight for marketers, as according to our model, people are more likely to buy a product if there is some promotional activity rather than purchase a product with the same price, when it isn't on promotion. 
 
 ## 9. Brand Choice
 
 <img src=https://user-images.githubusercontent.com/64850893/204612941-89eb8024-fdd2-41ed-aab9-96abd7ceed51.png width="700" height="500">
 
+* The 2 segments, which seem to be of most interested for the marketing team of brand 5, appear to be the Career-focused and the Well-off. They are also the segments which purchased this brand most often.
+
+* The Career-focused segment is the most inelastic and they are the most loyal segment.
+
+* Based on our model, they do not seem to be that affected by price, therefore brand 5 could increase its price, without fear of significant loss of customers from this segment.
+
+* The Well-off segment, on the other hand, seems to be more elastic. They also purchase the competitor brand 4 most often. In order to target this segment, the related price needs to be decreased. However, keep in mind that other factors aside from price might be influencing the purchase behaivour of this segment.
+
+## 10. Price Elasticity of Purchase Quantity with and without Promotion
+
+<img src=https://https://user-images.githubusercontent.com/64850893/204656387-3ceb326f-ca54-4a94-a9ab-1601e41d2f2a.png width="700" height="500">
+
+* The 2 elasticities are very close together for almost the entire price range.
+
+# It appears that promotion does not seem to be a significant factor in the customers' decision on what quantity of chocolate candy bars to purchase.
