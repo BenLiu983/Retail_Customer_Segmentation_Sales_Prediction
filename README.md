@@ -58,12 +58,17 @@ Reference: https://365datascience.com/courses/customer-analytics-in-python/
 
 <img src=https://user-images.githubusercontent.com/64850893/204145780-322c980b-c5e5-433b-a3ba-fb389e8326c5.png width="600" height="400">
 
+** We can observe that the clients are fairly separated with K-means and PCA.
+
+** The 4 segments are named based on the level of income and age.
 
 ## 6. Purchase Data Analytics
 
 * 6.1 Segment Proportion:
 
 <img src=https://user-images.githubusercontent.com/64850893/204149152-9ce089b6-b63b-4725-a5f9-a0260b465bd3.png width="500" height="400">
+
+** Note: segment 0 - Standard, segment 1 - Career-Focused, segment 2 - Fewer-Opportunities, segment 3 - Well-Off.
 
 
 * 6.2 Number of Purchases by Segment:
@@ -83,7 +88,7 @@ Reference: https://365datascience.com/courses/customer-analytics-in-python/
 
 ## 7. Price Elasticity of Purchase Probability
 
-* Ultilize linear regression to predict the purchase probability
+* Ultilize linear regression to predict the purchase probability.
 
 * Compute the probability by 4 segments and plot:
 
@@ -93,7 +98,7 @@ Reference: https://365datascience.com/courses/customer-analytics-in-python/
 
 * We observe that the Well-off (orange) segment are the least elastic when compared to the rest. So, their purchase probability elasticity is not as affected by price.
 
-* The price elasticities for the Standard (blue) segment seem to differ across price range. This may be due to the fact that the standard segment is least homogenous, which we discovered during our descriptive analysis. It may be that the customers in this segment have different shopping habbits, which is why their customers start with being more elastic than average but then shift to being more inelastic than the average customer.
+* The price elasticities for the Standard (blue) segment seem to differ across price range. This may be due to the fact that the Standard segment is least homogenous, which we discovered during our descriptive analysis. It may be that the customers in this segment have different shopping habits, which is why their customers start with being more elastic than average but then shift to being more inelastic than the average customer.
 
 
 
