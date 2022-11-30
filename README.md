@@ -6,7 +6,7 @@
 
 * Predict the price elasticity of purchase probability and quantity on various brands using linear regression, in order to assist marketers to make informed decisions.
 
-* Formula: probability of purchase * probability of choosing a brand * quantity * price.
+* Formula: sales of a brand = probability of purchase * probability of choosing a brand * quantity * price.
 
 
 ## 2. Data 
