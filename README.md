@@ -101,7 +101,6 @@ Reference: https://365datascience.com/courses/customer-analytics-in-python/
 * The price elasticities for the Standard (blue) segment seem to differ across price range. This may be due to the fact that the Standard segment is least homogenous, which we discovered during our descriptive analysis. It may be that the customers in this segment have different shopping habits, which is why their customers start with being more elastic than average but then shift to being more inelastic than the average customer.
 
 
-
 ## 8. Price Elasticity of Purchase Probability with and without Promotion
 
 * Compute the price elasticity of purchase probability with and without promotion, then plot:
@@ -133,3 +132,11 @@ Reference: https://365datascience.com/courses/customer-analytics-in-python/
 * The 2 elasticities are very close together for almost the entire price range.
 
 * It appears that promotion does not seem to be a significant factor in the customers' decision on what quantity of chocolate candy bars to purchase.
+
+## 11. Takeaways
+
+* Customers are segmented into 4 groups based on their demographics and purchased behaviors.
+* The Well-off segment is the least elastic in terms of purchase probability, compared to the other groups.
+* The purchase probability elasticity of the customers is less elastic when there is a promotion, which means people are more likely to buy a product if there are some promotional activities.
+* The Career-focused segment is the most inelastic and the most loyal segment. Therefore, brand 5 could increase its price, without fear of significant loss of customers from this segment.
+* Promotion does not impact the customers' decision significantly on what quantity of chocolate candy bars to purchase.
